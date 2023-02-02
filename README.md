@@ -1,3 +1,5 @@
+{{< toc >}}
+
 <h2> Project title </h2>
 Inventory project
 
