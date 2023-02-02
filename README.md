@@ -8,7 +8,7 @@ The project aimed to carrying out stock checking of Nike products in the warehou
 
 1. Clone the repository
 
-user@pc:~$ git clone https://github.com/naseham1/finalCapstone.git
+user@pc: git clone https://github.com/naseham1/finalCapstone.git
 
 2. Click on the console and open the created folder
 
@@ -17,7 +17,3 @@ user@pc: bundle <br>
 user@pc: yarn <br>
 user@pc: rails s <br>
 Open your browser on http://localhost:3000
-
-<h2> Usage instructions </h2>
-○ A usage section that instructs others on how to use your project after
-they’ve installed it. Include screenshots of your project in action.
