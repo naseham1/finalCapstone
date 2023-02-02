@@ -17,3 +17,6 @@ user@pc: bundle <br>
 user@pc: yarn <br>
 user@pc: rails s <br>
 Open your browser on http://localhost:3000
+
+<h2> Credits </h2>
+Naseha Malik
