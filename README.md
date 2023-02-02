@@ -1,4 +1,4 @@
-<h2> project title </h2>
+<h2> Project title </h2>
 Inventory project
 
 <h2> Project description </h2>
@@ -12,10 +12,10 @@ user@pc:~$ git clone https://github.com/naseham1/finalCapstone.git
 
 2. Click on the console and open the created folder
 
-user@pc:~$ cd FinalCapstone.git
-user@pc:~$ bundle
-user@pc:~$ yarn
-user@pc:~$ rails s
+user@pc: cd FinalCapstone.git
+user@pc: bundle
+user@pc: yarn
+user@pc: rails s
 Open your browser on http://localhost:3000
 
 <h2> Usage instructions </h2>
