@@ -18,7 +18,7 @@ The project aimed to carrying out stock checking of Nike products in the warehou
 
 1. Clone the repository
 
-user@pc: git clone https://github.com/naseham1/finalCapstone.git
+user@pc: git clone https://github.com/nasehamalik/finalCapstone.git
 
 2. Click on the console and open the created folder
 
