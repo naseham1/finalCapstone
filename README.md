@@ -1,12 +1,12 @@
 <h2> Table of contents </h2> <Br>
 
-[Project title](https://github.com/nasehamalik/finalCapstone#-project-title-)
+[Project title](https://github.com/nasehamalik/finalCapstone#-Project-title-)
 
-[Project description](https://github.com/nasehamalik/finalCapstone#Project-description-)
+[Project description](https://github.com/nasehamalik/finalCapstone#-Project-description-)
 
-[Installation instructions](https://github.com/nasehamalik/finalCapstone#Installation-instructions-)
+[Installation instructions](https://github.com/nasehamalik/finalCapstone#-Installation-instructions-)
 
-[Credits](https://github.com/nasehamalik/finalCapstone#credits-)
+[Credits](https://github.com/nasehamalik/finalCapstone#-Credits-)
 
 <h2> Project title </h2>
 Inventory project
