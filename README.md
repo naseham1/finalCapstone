@@ -1,3 +1,12 @@
+<h2> Table of contents </h2>
+[Project title](https://github.com/naseham1/finalCapstone#Project-title)
+
+[Project description](https://github.com/naseham1/finalCapstone#Project-description)
+
+[Installation instructions](https://github.com/naseham1/finalCapstone#Installation-instructions)
+
+[Credits](https://github.com/naseham1/finalCapstone#credits)
+
 <h2> Project title </h2>
 Inventory project
 
