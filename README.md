@@ -1,4 +1,4 @@
-<h2> Table of contents </h2>
+<h2> Table of contents </h2> <Br>
 [Project title](https://github.com/naseham1/finalCapstone#Project-title)
 
 [Project description](https://github.com/naseham1/finalCapstone#Project-description)
